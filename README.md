@@ -1,2 +1,2 @@
-# Self_Avoiding_Walks_FYP
+# self_avoiding_walks
 Code used for the generation and study of self avoiding walks
