@@ -1,5 +1,5 @@
 # The Self-Avoiding Walk Model in 2D and 3D 
-
+![CurvyWalk](https://github.com/mulligm2/self_avoiding_walks/assets/165812544/20df36cc-542b-4261-83ba-8ebfec848502)
 The behaviour of random walks, loop erased random walks (LERWs) and self-avoiding walks (SAWs) were investigated for this final year theoretical physics bachelor project.
 
 An n-step self-avoiding walk, $w$, on $\mathbb{Z}^d$, a hypercubic lattice, is defined as a sequence of points or sites $(w(0),w(1),w(2),...,w(n))$, where $w(i) = w(j)$ iff $i=j$.
